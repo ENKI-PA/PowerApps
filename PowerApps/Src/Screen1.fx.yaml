@@ -4,7 +4,7 @@ Screen1 As screen:
         Height: =619
         HtmlText: |-
             =//"Muestre el texto <b><font color=blue>HTML</font></b> aquí."
-            "<iframe width='800' height='600' src='https://raw.githubusercontent.com/ENKI-PA/PowerApps/main/PowerApps/CanvasManifest.json?token=GHSAT0AAAAAACLQZWI45Q62JJ5ZOOI3PNYYZLYTGXQ'></iframe>"
+            "<iframe width='800' height='600' src='https://raw.githubusercontent.com/ENKI-PA/PowerApps/main/PowerApps/CanvasManifest.json'></iframe>"
         Width: =902
         X: =40
         Y: =40
