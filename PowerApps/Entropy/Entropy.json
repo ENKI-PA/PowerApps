@@ -5,29 +5,36 @@
     "App": 1,
     "Host": 3,
     "HtmlText1": 5,
+    "Label1": 6,
     "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "12/12/2023 18:05:37",
+  "HeaderLastSavedDateTimeUTC": "12/28/2023 12:37:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "d4881dca-c5c0-4cb6-bce9-22bd742a3f2c": "\"/providers/microsoft.powerapps/apis/shared_github/connections/e289baae8fbd49a99d88bc926568a256\""
+  },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "GitHub": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "htmlViewer": 0
+    "htmlViewer": 0,
+    "label": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Host": {},
     "HtmlText1": {},
+    "Label1": {},
     "Screen1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
@@ -36,17 +43,19 @@
     "App": 0,
     "Host": 0,
     "HtmlText1": 0,
+    "Label1": 0,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0366339,
+    "AnalysisLoadTime": 0.0432683,
     "ControlCount": {
+      "htmlViewer": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 5.2189413
+    "DeserializationLoadTime": 5.9598423
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

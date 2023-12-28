@@ -6,7 +6,11 @@ Screen1 As screen:
             =//"Muestre el texto <b><font color=blue>HTML</font></b> aquí."
             "<iframe width='800' height='600' src='https://raw.githubusercontent.com/ENKI-data-projects/bes_migraciontelcel-powerapps/develop/src/main/scala/com/telcel/bigdata/bes_pstg/_1_Work/Bes_Pstg_Work.scala?token=GHSAT0AAAAAACLQZWI4YWE533CNBIGVTVD2ZLYUEHQ'></iframe>"
         Width: =902
-        X: =40
-        Y: =40
+        Y: =149
         ZIndex: =1
+
+    Label1 As label:
+        Text: =GitHub.GetUser().login
+        X: =1216
+        ZIndex: =2
 
